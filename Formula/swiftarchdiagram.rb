@@ -3,7 +3,6 @@ class Swiftarchdiagram < Formula
   homepage "https://github.com/michaelversus/SwiftArchDiagram"
   url "https://github.com/michaelversus/SwiftArchDiagram.git", tag: "0.1.4"
   version "0.1.4"
-  sha256 "20d5f328cc67ef1eb3ed7651fc25ed01633107db6a6325a898ce93d38ee462c1"
 
   depends_on "xcode": [:build]
 
